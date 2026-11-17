@@ -52,7 +52,7 @@ En el DFD, el sitio React representa también el cliente que se ejecuta en el na
 
 ## Informe y amenazas
 
-- [Informe para revisión local](docs/informe.pdf)
+- [Informe final](docs/informe.pdf)
 - [Inventario con riesgo y respuesta](docs/amenazas.csv)
 
 Las 18 amenazas están registradas en los flujos del DFD de nivel 1. En Threat Dragon figuran abiertas mientras las mitigaciones se mantengan como propuestas y la aceptación de R03 esté pendiente de aprobación.
